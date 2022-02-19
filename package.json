@@ -22,7 +22,7 @@
     "webpack": "webpack",
     "start": "webpack-dev-server --open",
     "dev": "webpack --mode=development",
-    "build": "webpack --mode=production"
+    "build": "webpack --mode=development"
   },
   "description": "This README would normally document whatever steps are necessary to get the application up and running.",
   "main": "babel.config.js",
@@ -30,14 +30,7 @@
     "lib": "lib",
     "test": "test"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/a-rcane/MyResume.git"
-  },
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/a-rcane/MyResume/issues"
-  }
 }
  
