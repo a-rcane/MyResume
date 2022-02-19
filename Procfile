@@ -1,1 +1,1 @@
-web: webpack application.js
+web: webpack server.js
