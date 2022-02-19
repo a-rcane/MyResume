@@ -20,8 +20,8 @@
   },
   "scripts": {
     "webpack": "webpack",
-    "start": "webpack-dev-server --open",
-    "dev": "webpack -- --mode development --watch",
-    "build": "webpack -- --mode production"
+    "start": "node server.js",
+    "dev": "npm run webpack -- --mode development --watch",
+    "build": "npm run webpack -- --mode production"
   }
 }
