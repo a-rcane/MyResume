@@ -1,1 +1,1 @@
-web: webpack server.js
+web: webpack run server
