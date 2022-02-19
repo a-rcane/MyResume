@@ -1,7 +1,7 @@
 const path = require('path');
 module.exports = {
     mode: "production",
-    entry: '.Resume/app/javascript/channels/index.js',
+    entry: './app/javascript/channels/index.js',
     output: {
         /*Webpack producing results*/
         path: path.resolve(__dirname, "../src/dist"),
