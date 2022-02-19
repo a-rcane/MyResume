@@ -6,7 +6,7 @@ module.exports = {
         /*Webpack producing results*/
         path: path.resolve(__dirname, "../src/dist"),
         filename: "app-bundle.js"
-    }
+    },
     module: {
       rules: [
         {
